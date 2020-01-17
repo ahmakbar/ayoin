@@ -4,4 +4,14 @@ using namespace std;
 int main(){
   cout<<"Hello World";
   cout<<"iyaa halo kamu";
+  
+  or (int a = 1; a < 10; a++){
+		for (int b = 10; b >= a; b--){
+			for (int c = 10; c >= b; c--){
+				cout<<c;
+			}
+			cout<<endl;
+		}
+		cout<<endl;
+	}
 }
