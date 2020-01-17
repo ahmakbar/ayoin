@@ -5,6 +5,7 @@ int main(){
 
   cout<<"Hello World";
   cout<<"iyaa halo kamu";
+
   
   or (int a = 1; a < 10; a++){
 		for (int b = 10; b >= a; b--){
@@ -15,6 +16,8 @@ int main(){
 		}
 		cout<<endl;
 	}
+
+  cout<<"H A"<<endl;
 
   cout<<"Hello World"<<endl;
 
